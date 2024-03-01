@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Snapout2
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C++, html and sql
-- 💞️ I’m looking to collaborate on any project related to automation 
+- 🌱 I’m currently learning Web dEp
+- 💞️ I’m looking to collaborate on any project related to Website dep 
 - 📫 How to reach me just message me here
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing much
